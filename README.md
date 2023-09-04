@@ -48,9 +48,6 @@ I am Garich (he/him)    </h2>
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a>	&nbsp;
 <a href="https://git-scm.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> 
-</a>	&nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 	&nbsp;
 </p>
 
 
@@ -96,8 +93,6 @@ I am Garich (he/him)    </h2>
 </picture>
  
 </p>
-
-
 
 <br/>
 
