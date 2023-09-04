@@ -15,7 +15,7 @@ I am Garich (he/him)    </h2>
 
 
 
-<img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
+## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 
 - 🔭 I’m currently studying in BISTU.
 - 🌱 I’m currently learning computer vision and deep learning.
@@ -27,7 +27,7 @@ I am Garich (he/him)    </h2>
 <br/>
 <hr/>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:**
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:**
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>	&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>	&nbsp;
