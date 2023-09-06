@@ -60,13 +60,13 @@ I am Garich (he/him)    </h2>
 
 <p align="center">
 <a href="https://github.com/garich00217">
-  <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api?username=garich00217&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api/top-langs/?username=garich00217&layout=compact&langs_count=8&theme=dark"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=garich00217&show_icons=true&theme=gotham"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garich00217&layout=compact&langs_count=8&theme=gotham"/>
 </a>
 </p>
 
 <p align="center">
- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=garich00217&theme=dark&hide_border=false"/>
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=garich00217&theme=gotham&hide_border=false"/>
 </p>
 
 <br/>
