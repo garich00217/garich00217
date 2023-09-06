@@ -5,11 +5,6 @@
 
 I am Garich (he/him)    </h2>
 
-<p align='center'>
-  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-</p>
-
-
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=garich00217&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
 
