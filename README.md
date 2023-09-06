@@ -3,8 +3,7 @@
 <h2 align="center"> "Hello World"
 <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
 
-I am Garich (he/him)    <br/>
-
+I am Garich (he/him)    
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=garich00217&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
 
@@ -28,6 +27,7 @@ I am Garich (he/him)    <br/>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>	&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>	&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 	&nbsp;
+
 
 <br/>
 <hr/>
@@ -60,9 +60,11 @@ I am Garich (he/him)    <br/>
 </a>
 </p>
 
+
 <p align="center">
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=garich00217&theme=gotham&hide_border=false"/>
 </p>
+
 
 <br/>
 <hr/>
@@ -75,7 +77,6 @@ I am Garich (he/him)    <br/>
 </a>
 </p>
 
-<br/>
-<hr/>
 
 <br/>
+<hr/>
