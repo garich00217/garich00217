@@ -3,7 +3,7 @@
 <h2 align="center"> "Hello World"
 <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
 
-I am Garich (he/him)    </h2>
+I am Garich (he/him)    <hr/>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=garich00217&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
