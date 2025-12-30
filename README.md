@@ -9,7 +9,7 @@ I am Garich (he/him)
 
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 
-- 🔭 I’m currently studying for master degree.
+- 🔭 I’m currently working in CV.
 - 🌱 I’m currently learning computer vision and deep learning.
 - 😄 I love exploring and learning new skills.
 - 📫 How to reach me: **garich00217@gmail.com**
