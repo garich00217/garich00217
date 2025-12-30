@@ -3,7 +3,7 @@
 <h2 align="center"> "Hello World"
 <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
 
-I am Garich (he/him)    
+I am Lucid (he/him)    
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=garich00217&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
 
@@ -36,7 +36,7 @@ I am Garich (he/him)
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="cplusplus" width="40" height="40" />  
 </a>	&nbsp;
-<a href="https://github.com/garich00217" target="_blank">
+<a href="https://github.com/Lucidyn" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">    
 </a>	&nbsp;
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
@@ -54,15 +54,15 @@ I am Garich (he/him)
 ## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 
 <p align="center">
-<a href="https://github.com/garich00217">
-  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=garich00217&show_icons=true&theme=gotham"/>
-  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garich00217&layout=compact&langs_count=8&theme=gotham"/>
+<a href="https://github.com/Lucidyn">
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=Lucidyn&show_icons=true&theme=gotham"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucidyn&layout=compact&langs_count=8&theme=gotham"/>
 </a>
 </p>
 
 
 <p align="center">
- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=garich00217&theme=gotham&hide_border=false"/>
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucidyn&theme=gotham&hide_border=false"/>
 </p>
 
 
